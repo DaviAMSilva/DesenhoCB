@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1586201529 source:c:\users\davia\programming\c\desenhocb\desenhocb\desenho\canvas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"color.h"
+	"console.h"
+
+1586201503 c:\users\davia\programming\c\desenhocb\desenhocb\desenho\color.h
+
+1586201493 source:c:\users\davia\programming\c\desenhocb\desenhocb\desenho\color.c
+
+1586201310 source:c:\users\davia\programming\c\desenhocb\desenhocb\desenho\console.c
+	<windows.h>
+	"color.h"
+
+1586199004 source:c:\users\davia\programming\c\desenhocb\desenhocb\main.c
+	<stdlib.h>
+	"desenho/color.h"
+	"desenho/console.h"
+	"desenho/canvas.h"
+
+1586201361 c:\users\davia\programming\c\desenhocb\desenhocb\desenho\console.h
+
+1586201353 c:\users\davia\programming\c\desenhocb\desenhocb\desenho\canvas.h
+	"color.h"
+
+1587062353 source:c:\users\davia\programming\c\desenhocb\desenho\canvas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"color.h"
+	"console.h"
+
+1586558624 c:\users\davia\programming\c\desenhocb\desenho\color.h
+
+1586209286 c:\users\davia\programming\c\desenhocb\desenho\console.h
+	<stdbool.h>
+
+1586555443 source:c:\users\davia\programming\c\desenhocb\desenho\color.c
+
+1586451580 source:c:\users\davia\programming\c\desenhocb\desenho\console.c
+	<windows.h>
+	<stdbool.h>
+	"color.h"
+
+1593361916 source:c:\users\davia\programming\c\desenhocb\main.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	"desenho/color.h"
+	"desenho/console.h"
+	"desenho/canvas.h"
+	"desenho/shapes.h"
+
+1587067208 c:\users\davia\programming\c\desenhocb\desenho\canvas.h
+	"color.h"
+
+1586737248 source:c:\users\davia\programming\c\desenhocb\desenho\shapes.c
+	<stdlib.h>
+	<math.h>
+	"canvas.h"
+
+1586556007 c:\users\davia\programming\c\desenhocb\desenho\shapes.h
+	"canvas.h"
+	"color.h"
+
+1587062353 source:c:\users\davia\programming\c\cdrawing\desenho\canvas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"color.h"
+	"console.h"
+
+1586558624 c:\users\davia\programming\c\cdrawing\desenho\color.h
+
+1586209286 c:\users\davia\programming\c\cdrawing\desenho\console.h
+	<stdbool.h>
+
+1586555443 source:c:\users\davia\programming\c\cdrawing\desenho\color.c
+
+1586451580 source:c:\users\davia\programming\c\cdrawing\desenho\console.c
+	<windows.h>
+	<stdbool.h>
+	"color.h"
+
+1586737248 source:c:\users\davia\programming\c\cdrawing\desenho\shapes.c
+	<stdlib.h>
+	<math.h>
+	"canvas.h"
+
+1587067208 c:\users\davia\programming\c\cdrawing\desenho\canvas.h
+	"color.h"
+
+1587769172 source:c:\users\davia\programming\c\cdrawing\main.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	"desenho/color.h"
+	"desenho/console.h"
+	"desenho/canvas.h"
+	"desenho/shapes.h"
+
+1586556007 c:\users\davia\programming\c\cdrawing\desenho\shapes.h
+	"canvas.h"
+	"color.h"
+
